@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",RCN 
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdFQPqgoVJLcs7GvNSoapR2mmdSt8cRXrDQMy4zRDibS)/dm/3/x7vyv0z/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="General",Canal 1 (1080p) [Geo-blocked]
