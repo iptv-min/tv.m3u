@@ -4,9 +4,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv:443/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="136" tvg-name="Telemedellin" tvg-logo="https://www.m3u.cl/logo/136_Telemedellin.png", Telemedellin | CO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png", Señal Colombia | CO
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="General",RCN HD
 https://video-weaver.bog01.hls.live-video.net/v1/playlist/CpsFoXo5yc278k8EXEoQYSF7SDUCWO3er3aazsAZ4kn1ONjiYBj2MfGicYe0chTFoVWrVCaxyKZX9qmFy0CprSxDtzmW0evG5BD1zBuI1s-SBSCOxkda1dg_nk_dK7xuvm4oHJJucXD262FlyaACPlp0do1zhQo2iTQaDahF4iY9-io6GPqxnRlVtNRNrQiEPjzEp95shKyy2cJBSudDPCr5GTYrn1AptL2ac1ycXBDdsjKuIGw5kvzv2QzYHhI-56SF4aLYwd0_sC-ScwtNg4AX6j8EkG4vFd5MBjttYLCdZ-VBWYZIM8cyh1Sc8ynkjs2G45HwXIHQdC7ZzhuJDN0Vn-nZGu80yJFpwZxT7w2BHvKe6rEBixvabVbkn9eGGRtwm7K2zoclog9yaIYS2i2Vafkc4r9eg3KSEIAOsHtUcwUCfQKcUsILfpvRAMh3UAkXhDLlz44uQQrHD_oapiD0yFfLBqJ9Juu3Kw5Q_4EINW7vQ9FR6kmjzupSPWVK3x776a0euMl-ax6v5tmA24qc2bP0fNQRVRpWw5HkSPwTlo2sPk2xseCZWuLyD1IS5aHhYAdx82_kUzdK25hLjNXELyyEVG3CszJZebXYrdCb1QIoVdzlITRPkY1de7hpUiPJcidC_OMErAasUiILT_ji4V0o3w_rYpryZU4SmRZWOTamR6mAAe22q9K-dUB4Wi7BCeWoTXOu7NpxQVevJw6jEUK3j-95fLmBxM57xP9k6n1sZ5gsjxnhm8SGV2n1BlVmmBQWrFaDzIv2IZB5xdpdSwikTeHnAdm8NR4AsQtHGa-IMPvRii0qHoExIbi3CIL_u8qzCJ2sh6wafBlfLtqpVnWcS4bNHMi6Z3pzEeLjGsNTmaR4NbYR9JVIWxoM47waaxP90IVY_9vaIAEqCXVzLWVhc3QtMTDTBA.m3u8
