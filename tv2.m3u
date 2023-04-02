@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="caracol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" group-title="General",CARACOL HD
-https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3csP3jVSTr-D1F-4lpxWng/stream/b1c65018-5eed-42a3-a166-48a4d95a3af2:MRN2/variant/b1ec8969727c088b7ff7561d2ed834e1/bandwidth/2340800.m3u8?uid=N109V9ruHE4BPLMW1Gt1gHjsetCIzYZC&sid=FnHblZR8bm9OxCmPuAgC5wzGskQUfMoO&pid=VMF86qyqYQzbDRBNjaTjx6hEJqkWve7D&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1680484585845&ot=SPv-BF7w1kJatdkwodJ7ag&es=us-b5-p-e-wo1.cdn.mdstrm.com&proto=https&pz=us&aid=574462d1cab0f4d50866f001
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia (Medellín | Antioquia) (360p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="General",RCN HD
 https://video-weaver.bog01.hls.live-video.net/v1/playlist/CpsFoXo5yc278k8EXEoQYSF7SDUCWO3er3aazsAZ4kn1ONjiYBj2MfGicYe0chTFoVWrVCaxyKZX9qmFy0CprSxDtzmW0evG5BD1zBuI1s-SBSCOxkda1dg_nk_dK7xuvm4oHJJucXD262FlyaACPlp0do1zhQo2iTQaDahF4iY9-io6GPqxnRlVtNRNrQiEPjzEp95shKyy2cJBSudDPCr5GTYrn1AptL2ac1ycXBDdsjKuIGw5kvzv2QzYHhI-56SF4aLYwd0_sC-ScwtNg4AX6j8EkG4vFd5MBjttYLCdZ-VBWYZIM8cyh1Sc8ynkjs2G45HwXIHQdC7ZzhuJDN0Vn-nZGu80yJFpwZxT7w2BHvKe6rEBixvabVbkn9eGGRtwm7K2zoclog9yaIYS2i2Vafkc4r9eg3KSEIAOsHtUcwUCfQKcUsILfpvRAMh3UAkXhDLlz44uQQrHD_oapiD0yFfLBqJ9Juu3Kw5Q_4EINW7vQ9FR6kmjzupSPWVK3x776a0euMl-ax6v5tmA24qc2bP0fNQRVRpWw5HkSPwTlo2sPk2xseCZWuLyD1IS5aHhYAdx82_kUzdK25hLjNXELyyEVG3CszJZebXYrdCb1QIoVdzlITRPkY1de7hpUiPJcidC_OMErAasUiILT_ji4V0o3w_rYpryZU4SmRZWOTamR6mAAe22q9K-dUB4Wi7BCeWoTXOu7NpxQVevJw6jEUK3j-95fLmBxM57xP9k6n1sZ5gsjxnhm8SGV2n1BlVmmBQWrFaDzIv2IZB5xdpdSwikTeHnAdm8NR4AsQtHGa-IMPvRii0qHoExIbi3CIL_u8qzCJ2sh6wafBlfLtqpVnWcS4bNHMi6Z3pzEeLjGsNTmaR4NbYR9JVIWxoM47waaxP90IVY_9vaIAEqCXVzLWVhc3QtMTDTBA.m3u8
