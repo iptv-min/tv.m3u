@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="M | Las Estrellas FHD" tvg-logo="http://daleplaypro.com:8080/images/143ce71aa57a0d7b07c28cec04167c18.png" group-title="(TV) MEXICO",M | Las Estrellas FHD
+http://streamingtv.vip:8080/DavidAlvarado/AlvaradoSmart2022/156167
+
+
 http://streamingtv.vip:8080/DavidAlvarado/AlvaradoSmart2022/156167
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
