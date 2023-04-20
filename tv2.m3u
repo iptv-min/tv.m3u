@@ -4,7 +4,7 @@
 http://streamingtv.vip:8080/DavidAlvarado/AlvaradoSmart2022/156167
 
 
-#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
+#EXTINF:-1 tvg-id="128" tvg-name="señal colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png",Señal Colombia | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
