@@ -1,13 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", test
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"key":"100b6c20940f779a4589152b57d2dacb","kid":"eb676abbcb345e96bbcf616630f1a3da"}]}
-https://bitmovin-a.akamaihd.net/content/art-of-motion_drm/mpds/11331.mpd
+#EXTINF:-1 group-title="Mediacorp SG" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1 [Unencrypted]
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
 #KODIPROP:inputstream.adaptive.license_type=clearkey
