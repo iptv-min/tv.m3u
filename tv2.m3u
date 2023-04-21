@@ -1,9 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY CHANNEL
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://miteleooyala-a.akamaihd.net/05cWZwaDE6bbBRVP3yQqUggqFurSPG-d/1/dash/1.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cinemax.json
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX OP2
+https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
