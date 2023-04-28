@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,TELEMEDELLIN
+http://181.119.67.75:16123/play/ch73
+
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
 http://181.119.67.75:16123/play/ch65
 
@@ -12,19 +15,14 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="General",RCN HD
 http://181.119.67.75:16123/play/ch59a
 
-#EXTINF:-1,TELEMEDELLIN
-http://181.119.67.75:16123/play/ch73
-
 #EXTINF:-1 tvg-id="128" tvg-name="señal colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png",Señal Colombia | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1,LAS ESTRELLAS
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (720p)
 https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="CineTerror.us" tvg-logo="https://i.imgur.com/I5XxyLI.png" group-title="Movies",Pluto TV Cine Terror (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d180092e97a5e107638d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=913&terminate=false&userId=
