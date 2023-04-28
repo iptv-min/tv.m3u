@@ -15,7 +15,7 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="Colombia",RCN 
 http://181.119.67.75:16123/play/ch59a
 
-#EXTINF:-1 tvg-id="128" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png"group-title="Colombia",Señal Colombia
+#EXTINF:-1 tvg-id="128" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg"group-title="Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Las Estrellas
