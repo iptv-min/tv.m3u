@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://i.imgur.com/qCVZdar." group-title="Colombia",Telemedellin
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Colombia",Telemedellin
 http://181.119.67.75:16123/play/ch73
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="Colombia",Teleantioquia
@@ -18,7 +18,7 @@ http://181.119.67.75:16123/play/ch59a
 #EXTINF:-1 tvg-id="128" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png"group-title="Colombia",Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1,LAS ESTRELLAS
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Las Estrellas
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East (720p)
