@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Colombia",Telemedellin
-http://181.119.67.75:16123/play/ch73
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="Colombia",Teleantioquia
 http://181.119.67.75:16123/play/ch65
+
+
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Colombia",Telemedellin
+http://181.119.67.75:16123/play/ch73
+
 
 #EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/512px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
