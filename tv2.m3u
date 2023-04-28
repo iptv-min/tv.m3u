@@ -1,42 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1,RCN
+#EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" group-title="General",RCN HD
 http://181.119.67.75:16123/play/ch59a
-
-#EXTINF:-1,CARACOL
-http://181.119.67.75:16123/play/ch58
-
 
 #EXTINF:-1,TELEMEDELLIN
 http://181.119.67.75:16123/play/ch73
 
-#EXTINF:-1,TELEANTIOQUIA
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
 http://181.119.67.75:16123/play/ch65
 
 #EXTINF:-1,LAS ESTRELLAS
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 group-title="player latino" tvg-id="1006" tvg-chno="1006" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3350445'&EntityType='Item'&EntityId='229211'&Width=237&Height=237&ImageUrl='3350445.jpg'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",meWATCH LIVE 1 [Unencrypted]
-https://v3.playerlatino.live/stream/m3u8/95
-
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://nowtv.express.com.ar/"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/cinemax.json
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BrNnDFQ/cinemax.png" tvg-group="CINE Y SERIES", CINEMAX OP2
-https://anbalancer.express.com.ar/live/c1eds/Cinemax/SA_DASH_cipix/Cinemax.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" tvg-group="CIENCIA Y CULTURA", DISCOVERY CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/discovery.json
-https://dtvott-cbc.akamaized.net/dash_live_1073/manifest.mpd
 
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv:443/teleantioquialive/dvrlive-1500/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="M | Las Estrellas FHD" tvg-logo="http://daleplaypro.com:8080/images/143ce71aa57a0d7b07c28cec04167c18.png" group-title="(TV) MEXICO",M | Las Estrellas FHD
-http://streamingtv.vip:8080/DavidAlvarado/AlvaradoSmart2022/156167
 
 
 #EXTINF:-1 tvg-id="128" tvg-name="señal colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png",Señal Colombia | CO
