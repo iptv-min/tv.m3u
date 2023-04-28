@@ -14,11 +14,6 @@ http://181.119.67.75:16123/play/ch73
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
 
-//#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="General",Teleantioquia HD
-//#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-//https://liveingesta118.cdnmedia.tv:443/teleantioquialive/dvrlive-1500/chunklist.m3u8
-
-
 #EXTINF:-1 tvg-id="128" tvg-name="señal colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png",Señal Colombia | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
