@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Mexico",Las Estrellas
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1,TLNOVELAS
+#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Mexico",Tele Novelas
 http://181.119.67.75:16123/play/ch45
 
 #EXTINF:-1,TeleVid
