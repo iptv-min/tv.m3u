@@ -15,13 +15,13 @@ http://nkh8wh7k8f6c7tz9h7dk.xyz/rk/GgcjcxzsfhfsqdthjjhjjhtghxcbxnmncssfffahhVA/G
 #EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-chno="24" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , Mac Gyver
 https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 
-#EXTINF:-1 tvg-id="sembrador.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Sembrador.png" group-title="Colombia",El Sembrador
+#EXTINF:-1 tvg-id="avivamiento.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Logo_Avivamiento_2012_only.png/revision/latest/scale-to-width-down/150?cb=20210502004704&path-prefix=es" group-title="Colombia",El Sembrador
 http://138.59.177.34:8000/play/a04g/index.m3u8
 
 #EXTINF:-1 tvg-id="lavozdemaria.co" tvg-logo="https://static.wixstatic.com/media/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png/v1/fill/w_202,h_160,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7df2f1_1e3c21cc82db4e75a4f579b8454c17b1.png" group-title="Colombia",La Voz de Maria
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1105070001.m3u8
 
-#EXTINF:-1,AVIVAMIENTO
+#EXTINF:-1 tvg-id="televid.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Colombia",Avivamiento
 http://168.90.13.163:8000/play/a03g
 
 #EXTINF:-1,CRISTOVISION
