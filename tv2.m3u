@@ -24,11 +24,11 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1105070
 #EXTINF:-1 tvg-id="avivamiento.co" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Logo_Avivamiento_2012_only.png/revision/latest/scale-to-width-down/150?cb=20210502004704&path-prefix=es" group-title="Colombia",Avivamiento
 http://168.90.13.163:8000/play/a03g
 
-#EXTINF:-1,CRISTOVISION
+#EXTINF:-1 tvg-id="cristovision.co" tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png" group-title="Colombia",CristoVision
 http://168.90.13.163:8000/play/a03f
 
 #EXTINF:-1,CRISTOVISION
-http://181.119.67.75:16123/play/ch39
+https://151972.global.ssl.fastly.net/60a5a559e3414ce54aa8a44d/live_14a8e8a0ae3f11ed88e66b9275693a4d/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Televida RD
 http://138.59.177.34:8000/play/a01b/index.m3u8
