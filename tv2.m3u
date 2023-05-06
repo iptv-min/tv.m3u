@@ -9,7 +9,7 @@ http://181.119.67.75:16123/play/ch45
 #EXTINF:-1 tvg-id="televid.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Colombia",Tele Vid
 http://168.90.13.163:8000/play/a03h
 
-#EXTINF:-1 tvg-id="televida.co" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.png" group-title="Colombia",TeleVida
+#EXTINF:-1 tvg-id="televida.co" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50397cf71b817f29eb7f6fed5c6edf33.webp" group-title="Colombia",TeleVida
 http://138.59.177.34:8000/play/a01b/index.m3u8
 
 #EXTINF:-1 group-title="CANALES VARIADOS", Los Años Maravillosos 1988
