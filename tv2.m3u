@@ -9,6 +9,9 @@ http://181.119.67.75:16123/play/ch45
 #EXTINF:-1 tvg-id="televid.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Colombia",Tele Vid
 http://168.90.13.163:8000/play/a03h
 
+#EXTINF:-1 tvg-id="televida.co" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.pngg" group-title="Colombia",TeleVida
+http://138.59.177.34:8000/play/a01b/index.m3u8
+
 #EXTINF:-1 group-title="CANALES VARIADOS", Los Años Maravillosos 1988
 http://nkh8wh7k8f6c7tz9h7dk.xyz/rk/GgcjcxzsfhfsqdthjjhjjhtghxcbxnmncssfffahhVA/Gfzcsseghhjgdqsfzhbnvcxsssfgdgteeyuyopxcv/1036.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 
@@ -30,12 +33,8 @@ https://151972.global.ssl.fastly.net/60a5a559e3414ce54aa8a44d/live_14a8e8a0ae3f1
 #EXTINF:-1 tvg-id="cristovision.co" tvg-logo="https://cristovision.tv/sites/default/files/logo_web2.png" group-title="Colombia",CristoVision op2
 http://168.90.13.163:8000/play/a03f
 
-#EXTINF:-1 tvg-id="televida.co" tvg-logo="https://televida.org.do/wp-content/uploads/2018/02/LOGOS_TELEVIDA_Movil-01.pngg" group-title="Colombia",TeleVida
-http://138.59.177.34:8000/play/a01b/index.m3u8
-
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/qCVZdar.png" group-title="Colombia",Teleantioquia
 http://181.119.67.75:16123/play/ch65
-
 
 #EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="Colombia",Telemedellin
 http://181.119.67.75:16123/play/ch73
