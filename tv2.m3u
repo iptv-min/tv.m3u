@@ -13,9 +13,6 @@ http://181.119.67.75:16123/play/ch45
 #EXTINF:-1 tvg-id="americatv.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.ng" group-title="Peru",Las Estrellas
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="televid.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Colombia",America Tv
-https://raw.githubusercontent.com/iptv-min/tv.m3u/main/peliculas.m3u
-
 #EXTINF:-1 tvg-id="televid.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_Tele_VID.png" group-title="Colombia",Tele Vid
 http://168.90.13.163:8000/play/a03h
 
