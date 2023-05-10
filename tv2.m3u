@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-chno="24" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , Mac Gyver
+https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+
 #EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Mexico",Tele Novelas op1
 http://168.90.13.163:8000/play/a020
 
@@ -17,12 +21,6 @@ http://168.90.13.163:8000/play/a03h
 
 #EXTINF:-1 tvg-id="televida.co" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50397cf71b817f29eb7f6fed5c6edf33.webp" group-title="Colombia",TeleVida
 http://138.59.177.34:8000/play/a01b/index.m3u8
-
-#EXTINF:-1 tvg-id="anosmaravillosos.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_Wonder_Years_logo.svg/1024px-The_Wonder_Years_logo.svg.png" group-title="Colombia",Los Años Maravillosos
-http://nkh8wh7k8f6c7tz9h7dk.xyz/rk/GgcjcxzsfhfsqdthjjhjjhtghxcbxnmncssfffahhVA/Gfzcsseghhjgdqsfzhbnvcxsssfgdgteeyuyopxcv/1036.ts|User-Agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-
-#EXTINF:-1 channel-id="pluto-63eb95baa99571000898a078" tvg-id="63eb95baa99571000898a078" tvg-chno="24" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="Nuevo en Pluto TV" , Mac Gyver
-https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 
 #EXTINF:-1 tvg-id="sembrador.co" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="Colombia",El Sembrador
 http://138.59.177.34:8000/play/a04g/index.m3u8
